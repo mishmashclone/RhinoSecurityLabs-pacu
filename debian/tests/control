@@ -1,0 +1,3 @@
+Test-Command: debian/tests/basic-test.sh test_install_python3
+Depends: python3-pacu
+Restrictions: allow-stderr, superficial

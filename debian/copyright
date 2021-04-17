@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: pacu
+Source: https://github.com/RhinoSecurityLabs/pacu
+
+Files: *
+Copyright: RhinoSecurityLabs <info@rhinosecuritylabs.com>
+License: BSD-3
+
+Files: debian/*
+Copyright: 2019 Sophie Brun <sophie@offensive-security.com>
+License: LGPL-3+
